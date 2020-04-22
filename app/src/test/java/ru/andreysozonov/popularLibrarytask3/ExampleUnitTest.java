@@ -1,4 +1,4 @@
-package ru.andreysozonov.poularlibrarytask2;
+package ru.andreysozonov.popularLibrarytask3;
 
 import org.junit.Test;
 
