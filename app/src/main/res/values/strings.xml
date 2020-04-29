@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">popularLibraryTask4</string>
+    <string name="app_name">popularLibraryTask5</string>
+    <string name="add_user">Add User</string>
+    <string name="add_users">Add Users</string>
+    <string name="delete_user">Delete User</string>
+    <string name="update_user">Update User</string>
+    <string name="get_users">Get Users</string>
 </resources>
