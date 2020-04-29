@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">popularLibraryTask3</string>
-    <string name="subscribe">Subscribe</string>
-    <string name="unsubscribe">Unsubscribe</string>
-    <string name="get_message">Get Message</string>
+    <string name="app_name">popularLibraryTask4</string>
 </resources>
