@@ -1,8 +1,4 @@
 <resources>
-    <string name="app_name">popularLibraryTask5</string>
-    <string name="add_user">Add User</string>
-    <string name="add_users">Add Users</string>
-    <string name="delete_user">Delete User</string>
-    <string name="update_user">Update User</string>
-    <string name="get_users">Get Users</string>
+    <string name="app_name">popularLibraryTask6</string>
+    <string name="title_activity_dagger">DaggerActivity</string>
 </resources>
